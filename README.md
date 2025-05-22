@@ -6,7 +6,7 @@ for git exploring
 
 Get The Status And Check The Files If It Tracked Or Not
 
-## Before The Local
+## Before Sending To The Local Repo
 
 ### git add \* or git add "/specific file"
 
@@ -15,3 +15,15 @@ this adds The File/s To The Work Staging
 ### git reset \* or git reset "/specific file"
 
 This Return The File/s From The Work Staging
+
+## Sending To The Local Repo
+
+### git commit -m "message to demonstrate the changes"
+
+this apply the chenges to the actual local repo
+
+## Sending To The Remote
+
+### git push
+
+this pushs the changes i made in the local repo to the remote repo
