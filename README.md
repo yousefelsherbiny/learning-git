@@ -10,6 +10,10 @@ Get The Status And Check The Files If It Tracked Or Not
 
 get the branches of the repo in local repo
 
+### git remote -v
+
+gets the RemoteName
+
 ## Before Sending To The Local Repo
 
 ### git add \* or git add "/specific file"
