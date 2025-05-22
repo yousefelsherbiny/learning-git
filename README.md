@@ -28,6 +28,6 @@ this apply the chenges to the actual local repo
 
 ## Sending To The Remote
 
-### git push RepoName BranchName
+### git push RemoteName BranchName
 
 this pushs the changes i made in the local repo to the remote repo
