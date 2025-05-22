@@ -6,6 +6,10 @@ for git exploring
 
 Get The Status And Check The Files If It Tracked Or Not
 
+### git branch
+
+get the branches of the repo in local repo
+
 ## Before Sending To The Local Repo
 
 ### git add \* or git add "/specific file"
